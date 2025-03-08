@@ -312,7 +312,7 @@ function App() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.1 }}
               >
-                AnimatedUI
+                Creation Observer
               </motion.h3>
               <motion.p 
                 className="text-gray-400"
@@ -358,7 +358,7 @@ function App() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5 }}
           >
-            <p>© 2025 AnimatedUI. All rights reserved.</p>
+            <p>© 2025 CreationObserver. All rights reserved.</p>
           </motion.div>
         </div>
       </footer>
